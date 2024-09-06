@@ -1,0 +1,9 @@
+
+:host-context(.blue-theme) .btn-theme {
+  background: blue;
+}
+
+:host-context(.red-theme) .btn-theme {
+  background: red;
+}
+
